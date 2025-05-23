@@ -30,6 +30,7 @@
   },
   "dependencies": {
     "create-react-class": "^15.6.2",
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.5.10",
+    "deprecated-react-native-prop-types":"^5.0.0"
   }
 }
