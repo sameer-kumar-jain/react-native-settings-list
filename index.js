@@ -359,7 +359,7 @@ SettingsList.Item = createReactClass({
     hasNavArrow: PropTypes.bool,
     arrowIcon: PropTypes.node,
 
-    arrowStyle: Image.propTypes.style,
+    arrowStyle: ImagePropTypes.style,
     /**
      * Enable or disable a Switch component
      */
